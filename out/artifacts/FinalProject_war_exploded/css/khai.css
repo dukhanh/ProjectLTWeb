@@ -1,0 +1,32 @@
+.container .categories_post img{
+    width: 350px;
+    height: 220px;
+}
+.container .col-md-9 img{
+    width: 555px;
+    height: 280px;
+}
+.author_img{
+    width: 120px;
+    height: 120px;
+}
+.feature-img img{
+    width: 750px;
+    height: 350px;
+}
+.col-6 .img-fluid{
+    width: 360px;
+    height: 350px;
+}
+.media .d-flex img{
+    width: 150px;
+    height: 100px;
+}
+.navigation-area img{
+    width: 60px;
+    height: 60px;
+}
+.single-product img{
+    width: 263px;
+    height: 280px;
+}
